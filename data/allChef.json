@@ -1,0 +1,87 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "name": "Al Kadria Uhah",
+    "rating": { "number":4.5, "badge": "Excellent" },
+    "img": "https://i.ibb.co/qmNpQHW/chef1.jpg",
+    "experience": "5 year",
+    "recipes": [
+      "Avocado Cucumber Tuna Salad",
+      "Caprese-Stuffed Avocados",
+      "Fruit Salad with Honey Lime Dressing"
+    ],
+    "description": "One of the most royal delicacies that you can enjoy on any occasion or festival, Chicken Biryani is the epitome of a one-pot meal. Well, no one can resist the sight of the aromatic and delicious Chicken Biryani recipe. If you are also craving that, then you need not go anywhere as we have got this super-easy biryani recipe for you. So, what are you waiting for? Do try this delicious Chicken Biryani recipe and enjoy it with your loved ones.",
+    "position" : "Senior Chef"
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2a",
+    "name": "Akhi amanm Khan",
+    "rating": { "number": 3.5, "badge": "Excellent" },
+    "img": "https://i.ibb.co/c2xFJ7t/chef2.jpg",
+    "experience": "4.5 year",
+    "recipes": [
+      "Tropical Fruit Salad",
+      "Caprese-Stuffed Avocados",
+      "Fruit Salad with Honey Lime Dressing"
+    ],
+    "description": "Tropical fruits have such deliciously complex flavors—a mix of sweet and creamy and tangy—that they really don’t need any other ingredients to make them shine. But stirring a little shredded coconut into this salad is a nice way to amp up the tropical vibe.",
+    "position": "Experienced Chef"
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15f11c2ab6a",
+    "name": "Al Assouman nanu",
+    "rating": { "number": 4, "badge": "Excellent" },
+    "img": "https://i.ibb.co/bH3d3QL/chef3.jpg",
+    "experience": "03 year",
+    "recipes": [
+      "Gingerbread Milk",
+      "Caprese-Stuffed Avocados",
+      "Fruit Salad with Honey Lime Dressing"
+    ],
+    "description": "We love this sweetly spiced recipe as an anytime warmer, but we especially enjoy it when we’re backyard camping, or even just sitting outside on one of those chilly evenings of early spring. (Of course you should feel free to drink it inside, if that’s where you are.)",
+    "position": "All Menu Chef"
+    
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11ab6a",
+    "name": "Al Kadria Uhah",
+    "rating": { "number": 3.5, "badge": "Excellent" },
+    "img": "https://i.ibb.co/T8BKdT6/chef-with-uniform-kitchen.jpg",
+    "experience": "5 year",
+    "recipes": [
+      "Tofu, Vegetables, and Rice Soup",
+      "Caprese-Stuffed Avocados",
+      "Fruit Salad with Honey Lime Dressing"
+    ],
+    "description": "This is a simple and satisfying soup, and it’s not hard to make. It’s also a great way to use up any odds and ends of vegetables, if you’ve got them, like shredded carrots or cabbage, chopped broccoli, or sliced mushrooms.",
+    "position": "All Menu Chef"
+  },
+  {
+    "_id": "82e0e58a5c404fbd15261f11c2a",
+    "name": "AL Monnsour Biya",
+    "rating": { "number": 3, "badge": "Excellent" },
+    "img": "https://i.ibb.co/0h511mZ/smiling-chef-recommended-main-course.jpg",
+    "experience": "2.1 year",
+    "recipes": [
+      "Sweet Potato and Black Bean Burger",
+      "Caprese-Stuffed Avocados",
+      "Fruit Salad with Honey Lime Dressing"
+    ],
+    "description": "What’s your favorite way to eat a burger? With or without lettuce and tomato? Ketchup? On a toasted bun? However you like it, this chewy, sweet, and satisfying veggie burger is a great place to start. Kids Advisory Board recipe tester Amine recommends adding cheese slices to turn these into cheeseburgers.",
+    "position": "New Join Chef"
+  },
+  {
+    "_id": "0282e0e58a5c404fbdf11c2ab6a",
+    "name": "Fokar Ula Halim",
+    "rating": { "number": 5, "badge": "Excellent" },
+    "img": "https://i.ibb.co/FX61WLf/studio-portrait-cook-man-with-fresh-vegetables-table.jpg",
+    "experience": "3 year",
+    "recipes": [
+      "Strawberry-Watermelon Smoothie",
+      "Caprese-Stuffed Avocados",
+      "Fruit Salad with Honey Lime Dressing"
+    ],
+    "description": "If there’s anything more refreshing than a bright pink two-fruit smoothie, we don’t know what it is! Plus, it makes for a nice, cooling start to your day.If there’s anything more refreshing than a bright pink two-fruit smoothie, we don’t know what it is! Plus, it makes for a nice, cooling start to your day.If there’s anything more refreshing than a bright pink two-fruit smoothie, we don’t know what it is! Plus, it makes for a nice, cooling start to your day.If there’s anything more refreshing than a bright pink two-fruit smoothie, we don’t know what it is! Plus, it makes for a nice, cooling start to your day.",
+    "position": "ALl Over Chef"
+  }
+]
